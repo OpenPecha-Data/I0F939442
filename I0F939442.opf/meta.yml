@@ -1,0 +1,19 @@
+id: I0F939442
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:41.712479
+last_modified: 2023-01-04 11:30:41.712497
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  A5EA:
+    title: 'The Excellent Path of Supreme Great Bliss: A Prayer for Calling the Guru
+      from Afar'
+    base_file: A5EA.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
